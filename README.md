@@ -22,3 +22,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Changes that I had to make to the project gutenberg HTML files.
+
+1. I deleted <style type="text/css"> </style> in every gutenberg HTML files.
+2. I created "book.css" file and add <link rel="stylesheet" type="text/css" href="book.css">
+to three of my gutenberg HTML files. (This line of code make the HTML files use my css file.)
+3. The background image "oldpaper.jpg" downloaded from "https://www.google.ca/search?q=oldpaper&biw=1920&bih=950&tbm=isch&imgil=kSuMwiHTOo8HtM%253A%253BMdd1jxt4jCvSCM%253Bhttp%25253A%25252F%25252Fwww.babaimage.com%25252Fimage%25252Fold-old-paper&source=iu&pf=m&fir=kSuMwiHTOo8HtM%253A%252CMdd1jxt4jCvSCM%252C_&usg=__5Z1c9akJ1kxUefdWuYMMZ49h3So%3D&ved=0ahUKEwj7iLDd0f_RAhWa3oMKHT-yDYIQyjcIKQ&ei=RJuaWPvWBpq9jwS_5LaQCA#imgrc=kSuMwiHTOo8HtM:"

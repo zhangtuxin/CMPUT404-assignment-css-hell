@@ -1,0 +1,77 @@
+
+body {
+	margin: 8%;
+	text-align: justify;
+	background-color: #aaa388;
+	background-image: url("images/oldpaper.jpg");
+	background-size: 100% auto;
+}
+
+a:link {
+	color: #3a2e0c;
+}
+a:visited {
+	color: #7d0552;
+}
+
+img {border:none;}
+
+p {
+	text-indent: 1em;
+	text-align: left;
+	margin-top: .25em;
+	margin-bottom: .25em;
+	font-style: oblique;
+	text-shadow: .5px .5px #787878;
+	font-family: Georgia, serif;
+	font-size: 15px;
+	font-weight: lighter;
+}
+table{
+	font-family: verdana;
+	color: rgba();
+
+}
+.cb {text-align:center;text-indent:0%;font-weight:bold;}
+.capt {
+display: block;
+left: 0;
+margin-left:35%;
+top: 0;
+width: 100%;
+height: 100%;
+background: rgba(0, 0, 0, 0) linear-gradient(to bottom, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0.6) 100%) repeat 0 0;
+z-index: 1;
+}
+
+.toc       { margin-left: 1%; margin-bottom: .75em;}
+.toc2      { margin-left: 20%;}
+
+.figcenter   {margin-top:5%;margin-bottom:5%;
+margin-left:auto;margin-right:auto;text-align:center;text-indent:0%;}
+
+h1,h2,h3,h4,h5,h6 {
+	text-align: center;
+	font-family: verdana;
+	margin-left: 15%;
+	margin-right: 15%;
+	text-shadow: .75px .75px #787878;
+	font-family: Georgia, serif;
+	font-size: 20px;
+	font-weight: lighter;
+}
+
+ hr.full {width: 50%;margin:5% auto 5% auto;border:4px double gray;}
+
+ .boxx {border:solid 2px black;padding:2%;
+margin:1% auto 3% auto;max-width:50%;}
+
+pre {
+	color: red;
+	font-style: oblique;
+	font-size: 100%;
+	margin-left: 25%;
+	font-family: Georgia, serif;
+	font-size: 12px;
+	font-weight: normal;
+}
