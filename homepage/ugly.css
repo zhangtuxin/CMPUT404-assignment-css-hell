@@ -1,0 +1,65 @@
+.header {
+    z-index: 1;
+    position: fixed;
+	width: 100%;
+	font-weight:bold;
+    margin-top: -0.5em;
+	margin-left: -0.25em;
+    height: 7em;
+  	//background-color: #009991;
+    margin-bottom: 2em;
+    color: #ffffff;
+    font-family: cursive;
+	//background-image: url("images/bg1.jpg");
+    
+}
+.right {
+    position: relative;
+    float:right;
+	margin-top:6em;
+	margin-bottom: 1em;
+    width: 78%;
+    height: 47.5em;
+    //background-color: white;
+}
+.about{
+	font-size: large;
+	font-family: cursive;
+	color:black;
+}
+.leftbar{
+	position: relative;
+	padding: 2% 0% 1% 1%;
+	float: left;
+	width: 14%;
+	margin: 9% 0% 2% 0%;
+}
+.selfie{
+	width: 50%;
+
+}
+.name{
+	color: black;
+	float: left;
+	margin-left: 1em;
+	padding-top: 0em;
+	font-size: 2em;
+}
+.email{
+	float: right;
+	font-size: 1em;
+	color: black;
+}
+.phone{
+	float: right;
+	font-size: 1em;
+	color: black;
+}
+.university{
+	float: right;
+	margin-top: -1em;
+	margin-right: 1em;
+	padding-top: 1em;
+	font-size: 1em;
+	color: black;
+}
