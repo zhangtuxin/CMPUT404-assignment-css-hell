@@ -33,13 +33,14 @@
 	padding: 2% 0% 1% 1%;
 	float: left;
 	width: 14%;
-	margin: 7% 0% 2% 0%;
+	margin: 9% 0% 2% 0%;
 	background-color: #009991;
 	color: pink;
 }
 .selfie{
-	width: 75%;
-	padding: 0 0 0 7.5%;
+	width: 100%;
+	transform: rotate(-90deg);
+	padding: 10% -15% 0% 0%;
 }
 .name{
 	float: left;
