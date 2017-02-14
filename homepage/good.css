@@ -29,32 +29,39 @@
 }
 .leftbar{
 	position: relative;
-	padding: 2% 0% 1% 1%;
+	padding: 4% 1% 1% 1%;
 	float: left;
 	width: 14%;
-	margin: 9% 0% 2% 0%;
-	background-color: #009991;
-	color: pink;
+	margin: 8% 0% 2% 0%;
+	background-color:#7ec0ee;
+	border-style: solid;
+	border-width: 3px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 30px;
+	border-bottom-left-radius: 0;
+	color: black;
 }
 .selfie{
 	width: 100%;
 	transform: rotate(-90deg);
-	padding: 10% -15% 0% 0%;
+	padding: 0% 0% 0% 0%;
 }
 .name{
 	float: left;
 	margin-left: 1em;
 	padding-top: 0em;
-	font-size: 2em;
+	font-size: 2.5em;
+	color: black;
 }
 .email{
 	float: right;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: black;
 }
 .phone{
 	float: right;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: black;
 }
 .university{
@@ -62,6 +69,6 @@
 	margin-top: -1em;
 	margin-right: 1em;
 	padding-top: 1em;
-	font-size: 1em;
+	font-size: 1.5em;
 	color: black;
 }
