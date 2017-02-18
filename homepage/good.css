@@ -5,13 +5,19 @@
 	font-weight:bold;
     margin-top: -0.5em;
 	margin-left: -0.25em;
-    height: 7em;
+    height: 8em;
     margin-bottom: 2em;
     color: white;
     font-family: cursive;
 	background-image: url("images/bg1.jpg");
     
 }
+
+.navig {
+  padding-top: 4em;
+  padding-left: 25em;
+}
+
 .right {
     position: relative;
     float:right;
@@ -30,7 +36,7 @@
 .leftbar{
 	position: relative;
 	padding: 4% 1% 1% 1%;
-	float: left;
+	float: right;
 	width: 14%;
 	margin: 8% 0% 2% 0%;
 	background-color:#7ec0ee;
